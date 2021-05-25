@@ -11,6 +11,7 @@ Replace the Project Title
 ### Description
 Describe what your project is about and what it does
 **Use Python to understand US bikeshare data**
+*The project required a lot more resources than expected*
 
 ### Files used
 Include the files used
